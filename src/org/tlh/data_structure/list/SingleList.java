@@ -1,5 +1,10 @@
 package org.tlh.data_structure.list;
 
+/**
+ * µ¥Á´±í
+ * @author hp
+ *
+ */
 public class SingleList {
 
 	public void remoteList(Node headNote){
